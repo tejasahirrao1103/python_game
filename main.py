@@ -26,4 +26,4 @@ menusel=int(input("please select calulator by index number: "))
 if menusel == 1:
     quize.quizefunc()
 if menusel== 2:
-    rockpapercessor.code_not_available()
+    rockpapercessor.rpccode()
